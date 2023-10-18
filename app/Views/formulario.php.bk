@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Fomulário de Cadastro</title>
+</head>
+<body>
+    <h1 class="text-black font-bold text-center">Formulário de Cadastro</h1>
+
+<div class="w-screen h-screen flex flex-col items-center justify-center">
+
+
+    <form method="POST">
+
+
+    <label>Nome: </label><input type="text" name="NomePessoa">
+    <br>
+    <label>Data de Nascimento: </label><input type="date" name="DataNascimento">
+    <br>
+    <label>Cidade onde Mora: </label><input type="text" name="CidadeOndeMora">
+    <br>
+    <label>Como soube da Feira: </label>
+        <select name="ComoSoubeDaFeira">
+            <option value="Internet">Internet</option>
+            <option value="Radio/TV">Radio/TV</option>
+            <option value="Amigos">Amigos</option>
+            <option value="Outros">Outros</option>
+        </select>
+    <br>
+    <label>Já teve contato com a Univiçosa: </label>
+        <select name="JaTeveContatoComAUni">
+            <option value="Sim">Sim</option>
+            <option value="Nao">Não</option>
+        </select>
+
+        <br>
+    <label>Já conhecia os cursos e serviços: </label>
+        <select name="ConheciaCursoseServicos">
+            <option value="Sim">Sim</option>
+            <option value="Nao">Não</option>
+        </select>
+        <br>
+        
+        <label>Motivo de ir à Feira: </label>
+        <select name="ComoSoubeDaFeira">
+            <option value="servicooferecido">usar algum serviço oferecido</option>
+            <option value="conhecer">conhecer a feira</option>
+        </select>
+    <br>
+    <br>
+
+    <fieldset>
+        <legend><b>Serviços usados na feira:</b></legend>
+        <label for="ServicoUtilizadoPressao">Aferir Pressão:</label>
+        <input type="checkbox" id="ServicoUtilizadoPressao" name="ServicoUtilizadoPressao"><br>
+        
+        <label for="ServicoUtilizadoGlicose">Medir Glicose:</label>
+        <input type="checkbox" id="ServicoUtilizadoGlicose" name="ServicoUtilizadoGlicose"><br>
+        
+        <label for="ServicoUtilizadoPsicologia">Avaliação Psicológica:</label>
+        <input type="checkbox" id="ServicoUtilizadoPsicologia" name="ServicoUtilizadoPsicologia"><br>
+
+
+        <label for="ServicoUtilizadoConhecerEngenharias	">Conhecer as engenharias:</label>
+        <input type="checkbox" id="ServicoUtilizadoConhecerEngenharias" name="ServicoUtilizadoConhecerEngenharias"><br>
+
+    </fieldset>
+
+<br>
+
+
+    <fieldset>
+        <legend><b>Doenças Crônicas:</b></legend>
+        <label for="DoencaCronicaDiabetes">Diabetes:</label>
+        <input type="checkbox" id="DoencaCronicaDiabetes" name="DoencaCronicaDiabetes"><br>
+        
+        <label for="DoencaCronicaPressao">Pressão:</label>
+        <input type="checkbox" id="DoencaCronicaPressao" name="DoencaCronicaPressao"><br>
+        
+        <label for="DoencaCronicaTDAH">TDAH:</label>
+        <input type="checkbox" id="DoencaCronicaTDAH" name="DoencaCronicaTDAH"><br>
+
+        <label for="DoencaCronicaTireoide">Tireóide:</label>
+        <input type="checkbox" id="DoencaCronicaTireoide" name="DoencaCronicaTireoide"><br>
+
+        <label for="DoencaCronicaColesteral">Colesterol:</label>
+        <input type="checkbox" id="DoencaCronicaColesteral" name="DoencaCronicaColesteral"><br>
+
+        <label for="DoencaCronicaOutros">Outras doenças:</label>
+        <input type="checkbox" id="DoencaCronicaOutros" name="DoencaCronicaOutros"><br>
+
+    </fieldset>
+
+    <br>
+
+
+    <label>Já veio à feira antes: </label>
+        <select name="JaVeioAFeiraAntes">
+            <option value="sim">Sim</option>
+            <option value="nao">Não</option>
+        </select>
+        <br>
+
+
+        <label>Tem algo que vc não encontrou na feira?: </label>
+        <select name="TemAlgoQueNaoEncontrouNaFeira">
+            <option value="sim">Sim</option>
+            <option value="nao">Não</option>
+        </select>
+        <br>
+
+
+        <label>O que não encontrou?: </label> <input type="text" name="OQueNaoEncontrou">
+        <br>
+
+    <input type="submit" value="Inserir"> 
+
+    </form>
+
+
+</div>
+
+</body>
+</html>

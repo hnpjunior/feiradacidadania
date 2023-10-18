@@ -1,0 +1,325 @@
+CRITICAL - 2023-10-10 17:11:43 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:13:30 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:13:34 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:17:00 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Home.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:18:12 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Home.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:20:02 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:22:15 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:22:33 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:23:50 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:23:53 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:30:02 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:32:13 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:32:47 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:33:20 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->formulario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:35:20 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:39:57 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:40:22 --> Undefined property: App\Controllers\Feira::$requests
+in APPPATH/Controllers/Feira.php on line 16.
+ 1 APPPATH/Controllers/Feira.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:40:33 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:46:25 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:46:35 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:47:45 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:49:14 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 17:49:22 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 18:02:36 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 18:03:25 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 18:04:28 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 18:07:02 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 18:07:42 --> Class 'App\Models\FeiraModel' not found
+in APPPATH/Controllers/Feira.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-10 18:08:13 --> mysqli_sql_exception: Unknown column 'DoencaCronicaColesterol' in 'field list' in /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/www/html/hermes/feiracidadania/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/www/html/hermes/feiracidadania/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/www/html/hermes/feiracidadania/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/www/html/hermes/feiracidadania/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/www/html/hermes/feiracidadania/app/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+#8 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+#9 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/www/html/hermes/feiracidadania/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-10 18:08:13 --> Unknown column 'DoencaCronicaColesterol' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-10 18:08:36 --> mysqli_sql_exception: Unknown column 'DoencaCronicaColesterol' in 'field list' in /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/www/html/hermes/feiracidadania/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/www/html/hermes/feiracidadania/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/www/html/hermes/feiracidadania/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/www/html/hermes/feiracidadania/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/www/html/hermes/feiracidadania/app/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+#8 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+#9 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/www/html/hermes/feiracidadania/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-10 18:08:36 --> Unknown column 'DoencaCronicaColesterol' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-10 18:09:49 --> mysqli_sql_exception: Column 'NomePessoa' cannot be null in /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/www/html/hermes/feiracidadania/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/www/html/hermes/feiracidadania/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/www/html/hermes/feiracidadania/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/www/html/hermes/feiracidadania/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/www/html/hermes/feiracidadania/app/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+#8 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+#9 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/www/html/hermes/feiracidadania/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-10 18:09:49 --> Column 'NomePessoa' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-10 18:10:05 --> mysqli_sql_exception: Column 'NomePessoa' cannot be null in /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/www/html/hermes/feiracidadania/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/www/html/hermes/feiracidadania/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/www/html/hermes/feiracidadania/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/www/html/hermes/feiracidadania/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/www/html/hermes/feiracidadania/app/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+#8 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+#9 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/www/html/hermes/feiracidadania/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-10 18:10:05 --> Column 'NomePessoa' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-10 18:10:44 --> mysqli_sql_exception: Column 'MotivoDeIrAFeira' cannot be null in /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/www/html/hermes/feiracidadania/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/www/html/hermes/feiracidadania/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/www/html/hermes/feiracidadania/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/www/html/hermes/feiracidadania/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/www/html/hermes/feiracidadania/app/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+#8 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+#9 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/www/html/hermes/feiracidadania/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-10 18:10:44 --> Column 'MotivoDeIrAFeira' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-10 18:11:47 --> mysqli_sql_exception: Column 'MotivoDeIrAFeira' cannot be null in /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/www/html/hermes/feiracidadania/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/www/html/hermes/feiracidadania/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/www/html/hermes/feiracidadania/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/www/html/hermes/feiracidadania/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/www/html/hermes/feiracidadania/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/www/html/hermes/feiracidadania/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/www/html/hermes/feiracidadania/app/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+#8 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+#9 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/www/html/hermes/feiracidadania/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/www/html/hermes/feiracidadania/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-10 18:11:47 --> Column 'MotivoDeIrAFeira' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Feira.php(41): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Feira->inserir()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
